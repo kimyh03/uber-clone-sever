@@ -28,7 +28,7 @@
     "morgan": "^1.10.0",
     "pg": "^8.0.3",
     "tslint": "^6.1.2",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.2.25"
   },
   "scripts": {
     "predev": "npm run types",
